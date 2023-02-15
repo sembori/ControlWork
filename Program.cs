@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 Clear();
-string[] massive = { "-2", "Moscow", "Boo", "24313", "88", "Stop", "98", "youp", "00", "dsdfv" }; ;
+string[] massive = { "-2", "Moscow", "Boo", "24313", "88", "Stop", "98", "youp", "00", "dsdfv" }; 
 PrintArray(SearchElementOfMassive(massive,SearchLenghtOfNewMassive(massive)));
 
 
